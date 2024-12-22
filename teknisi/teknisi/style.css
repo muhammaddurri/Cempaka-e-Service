@@ -1,0 +1,55 @@
+body {
+  min-height: 200px;
+}
+nav {
+  background-color: #1A2C62;
+  
+}
+
+nav .img{
+
+  padding: 10px 10px;
+
+}
+
+.container navbar-brand .img{
+  padding: 10px 10px;
+
+
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(img/backgr.png);
+  height: 400px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -65px;
+  color: #eaeaea;
+}
+
+.jumbotron h1 {
+  padding-top: 80px;
+}
+
+.jumbotron h1,
+.jumbotron p {
+  text-shadow: 1px 1px 10px rgba(0, 0, 0, 1);
+  font-weight: bold;
+}
+
+.content {
+  background-color: #f2f4f7;
+  padding-top: 5rem;
+}
+
+.layanan {
+  background-color: #6c9ff2;
+  padding-bottom: 4rem;
+}
+footer {
+  background-color: #1A2C62;
+}
+
+
+
+
